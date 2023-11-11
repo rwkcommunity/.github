@@ -1,1 +1,1 @@
-# .github
+This repo contains the Organization frontpage Readme.md
